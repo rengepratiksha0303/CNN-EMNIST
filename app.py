@@ -3,7 +3,7 @@ import numpy as np
 import pickle
 import pandas as pd
 from PIL import Image, ImageOps, ImageEnhance
-from streamlit_drawable_canvas import st_canvas
+pip install streamlit-drawable-canvas
 import base64
 import os
 
